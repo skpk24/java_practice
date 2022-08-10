@@ -19,5 +19,7 @@ public CheckInheritance(String s) {
     
     public static void main(String ...args) {
         System.out.println("");
+        
+        System.out.print( 24 + 5 * 4 % (1+1) );
     }
 }
